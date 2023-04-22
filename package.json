@@ -17,7 +17,7 @@
     "axios": "^0.21.2",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "mongodb": "^3.6.4"
   }
 }
